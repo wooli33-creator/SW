@@ -40,7 +40,7 @@ export default function Home() {
     <div className="min-h-screen bg-background">
       <header className="border-b">
         <div className="max-w-3xl mx-auto px-6 py-4 flex items-center justify-between">
-          <h1 className="text-xl md:text-2xl font-bold">인생 명언</h1>
+          <h1 className="text-xl md:text-2xl font-bold">당신의 숫자가 전하는 따뜻한 메시지</h1>
           <ThemeToggle />
         </div>
       </header>
@@ -107,7 +107,7 @@ export default function Home() {
       <footer className="border-t mt-20">
         <div className="max-w-3xl mx-auto px-6 py-8 text-center text-muted-foreground">
           <p className="text-lg md:text-xl">
-            당신의 숫자가 전하는 따뜻한 메시지
+            인생 명언
           </p>
         </div>
       </footer>
